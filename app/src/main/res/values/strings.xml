@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DaggerHiltAndPaginagion</string>
+    <string name="charecter">charecterName</string>
+    <string name="Retry">retry</string>
+</resources>
